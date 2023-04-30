@@ -1,0 +1,150 @@
+% !TEX TS-program = LuaLaTex+se
+
+\documentclass[11pt, a4paper]{article}
+\usepackage{fullpage}
+\usepackage{libertine}
+\usepackage{gregoriotex}
+\usepackage{multirow}
+\usepackage{longtable}
+
+\begin{document}
+\xdef\grefinalpenalty{0}%
+\gresetlines{invisible}
+
+\gresetclef{invisible}
+
+%\def\tld{\raisebox{-.8ex}{\~~}\hspace{-0.15em}}
+
+\def\tld{\gretilde}
+
+\newcommand{\gs}[1]{\tt \noindent \gabcsnippet{#1}}
+
+\gresetinitiallines0
+
+\gresetlyriccentering{firstletter}
+
+\grechangedim{interglyphspace}{0.05927 cm}{scalable}%
+
+\grechangedim{glyphspace}{0.21877 cm}{scalable}%
+
+\grechangedim{spaceafterlineclef}{0 cm}{scalable}%
+
+\grechangedim{bitrivirspace}{0.05927 cm}{scalable}%
+
+\grechangedim{bitristrospace}{0.03 cm}{scalable}%
+
+\begin{center}
+\begin{Large}
+TABULA NEUMARUM\\
+IN TYPIS SOLESMENSIBUS SERVATIS
+\end{Large}
+\end{center}
+
+\begin{longtable}{|c|c|c|c|}
+
+%\begin{tabular}{|*{4}{c|}}
+\hline
+Neumæ			&\multicolumn{3}{c|}{Exempla Figurarum}							\\
+\cline{2-4}
+ aut				&	 				&\multicolumn{2}{c|}{Figuræ liquescentes}		\\
+\cline{3-4}
+Neumarum elementa	&		Figuræ		&	Figuræ 		&	Figuræ			\\
+				&		rectæ		&		auctæ	& deminutæ			\\
+\hline
+\endfirsthead
+Neumæ		 	&Figuræ rectæ		&	Figuræ auctæ		&	Figuræ deminutæ	\\
+\hline
+\endhead
+Punctum			& \gs{g(g)}		& \gs{g>(g>) g<(g<)}	& \gs{g<v>\tld</v>(g~)}	\\
+\hline
+Punctum inclinatum	&\gs{G(G)}		&\gs{G>(G>)}			&\gs{G<v>\tld</v>(G~)}	\\
+\hline
+Virga				&\gs{gv(gv)}		&					&					\\
+\hline
+Bivirga vel trivirga	&\gs{gvv(gvv) gvvv(gvvv)}&				&					\\
+\hline
+Virga	reversa		&\gs{gV(gV)}		&					&					\\
+\hline
+Quilisma			&\gs{gw(gw)}		&					&					\\
+\hline
+Apostropha vel stropha
+				&\gs{gs(gs)}		&\gs{gs>(gs>)}			&					\\
+\hline
+Distropha vel tristropha
+				&\gs{gss(gss) gsss(gsss)}
+								&\gs{gss>(gss>) gsss>(gsss>)}
+													&					\\
+\hline
+Oriscus			&\gs{go(go> go<)}	&					&\gs{go<v>\tld</v>(go~)}	\\
+\hline
+Podatus			&\gs{fh(fh)}		&\gs{fh>(fh>) fh<(fh<)}	&\gs{fh<v>\tld</v>(fh~)}	\\
+% \hline
+% Podatus initio debilis	&\gs{-fh(-fh)}		&\gs{-fh>(-fh>) -fh<(-fh<)}
+% 													&\gs{-fh<v>\tld</v>(-fh~)}\\
+\hline
+Clivis				&\gs{hf(hf)}		&\gs{hf>(hf>) hf<(hf<)}	&\gs{hf<v>\tld</v>(hf~)}	\\
+\hline
+Pes quassus		&\gs{foh(foh)}		&\gs{foh>(foh>) foh<(foh<)}
+													&\gs{foh<v>\tld</v>(foh~)}\\
+\hline
+Quilisma pes		&\gs{gwh(gwh) gWi(gWi)}
+								&\gs{gwh>(gwh>) gwh<(gwh<)}
+													&\gs{gwh<v>\tld</v>(gwh~)}\\
+\hline
+Torculus vel pes flexus
+				&\gs{ghg(ghg) fig(fig)}
+								&\gs{fig>(fig>)}			&\gs{fhe<v>\tld</v>(fhe~)}\\
+% \hline
+% Torculus initio debilis	&\gs{-ghg(-ghg)}	&\gs{-fig>(-fig>)}		&\gs{-fhe<v>\tld</v>(-fhe~)}\\
+\hline
+Torculus resupinus	&\gs{fgeg(fgeg)}	&\gs{fgeg<(fgeg<)}		&\gs{fgeg<v>\tld</v>(fgeg~)}\\
+\hline
+Porrectus vel flexa resupina
+				&\gs{geh(geh)}		&\gs{geh>(geh>)}		&\gs{geh<v>\tld</v>(geh~)}\\
+\hline
+Porrectus flexus		&\gs{gehf(gehf)}	&\gs{gehf>(gehf>)}		&\gs{gehf<v>\tld</v>(gehf~)}\\
+% \hline
+% Porrectus initio debilis&\gs{-fgeg(-fgeg)}	&\gs{-fgeg<(-fgeg<)}		&\gs{-fgeg<v>\tld</v>(-fgeg~)}\\
+\hline
+Climacus vel virga subpunctis
+				&\gs{gvFE(gvFE) hvGFE(hvGFE)}
+								&\gs{gvFE>(gvFE>)}		&\gs{gvFE<v>\tld</v>(gvFE~)}\\
+\hline
+Scandicus vel virga præbipunctis
+				&\gs{fh!iv(fh!iv) eghv(eghv)}
+								&\gs{ghi>(ghi>)}		&\gs{fhi<v>\tld</v>(fhi~)}	\\
+\hline
+Salicus			&\gs{fgOh(fgOh)}	&\gs{fgOh>(fgOh>)}		&\gs{fgOh<v>\tld</v>(fgOh~)}\\
+\hline
+Trigonus			&\gs{GGF(GGF)}		&\gs{GGF>(GGF>)}		&\gs{GGF<v>\tld</v>(GGF~)}\\
+\hline
+Pressus			&\gs{ggof(ggof)}	&\gs{ggof>(ggof>)}		&\gs{ggof<v>\tld</v>(ggof~)}\\
+\hline
+Pressus minor		&=virga strata?		&					&\gs{ggo<v>\tld</v>(ggo~)}\\
+\hline
+Ancus?			&				&					&					\\
+\hline
+Pes subpunctis vel subbipunctis
+				&\gs{ehF(ehF) fhGF(fhGF)}
+								&\gs{ehGF>(ehGF>)}		&\gs{ehGF<v>\tld</v>(ehGF~)}\\
+\hline
+Pes stratus			&\gs{ghO(ghO) fhO(fhO)}
+								&					&\\
+\hline
+Virga strata		&\gs{ggo(ggo)}		&					&\gs{ggo<v>\tld</v>(ggo~)}\\
+\hline
+Uncinus			& Laon à intégrer?	&					&\\
+\hline
+Scandicus flexus vel flexa præpunctis
+				&\gs{FG@he(FG@he)}
+								&\gs{FG@he>(FG@he>)}	&\gs{FG@he<v>\tld</v>(FG@he~)}\\
+\hline
+Scandicus subpunctis	&\gs{eghvFD(eghvFD)}
+								&\gs{eghvFD<(eghvFD<)}	&\gs{eghvFD<v>\tld</v>(eghvFD~)}	\\
+\hline
+
+
+\end{longtable}
+
+\end{document}
+

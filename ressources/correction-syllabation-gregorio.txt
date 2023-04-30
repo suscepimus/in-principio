@@ -1,0 +1,7 @@
+\gresetinitiallines{0}
+\gresetclef{invisible}
+\gresetlines{invisible}
+\gresethyphen{force}
+\grechangestaffsize{1}
+\grechangedim{interwordspacetext}{0.5em}{fixed}
+\grechangedim{interwordspacetext@bars}{0.5em}{fixed}
