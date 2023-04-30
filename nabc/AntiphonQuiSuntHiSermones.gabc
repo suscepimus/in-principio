@@ -1,0 +1,12 @@
+% !TEX root = Ostern_Heft_Partituren.tex
+% !TEX TS-program = LuaLaTeX+se 
+name: Qui sunt hi sermones;
+mode: VIII G 2;
+%http://www.e-codices.unifr.ch/en/csg/0391/039 = 44
+nabc-lines: 1;
+%%
+(c4)QUI(f|talsi6) sunt(fg~|ta>) hi(ggf|pr) ser(gh|pe>)mó(h|vi)nes,(g_|ta-) *(,)
+quos(g|ta) con(g|ta)fér(g|ta)tis(hi|pq) ad(g|ta) in(h>|vi>)vi(g|vi)cem(f|ta) (;)
+am(f|ta)bu(hj|pe)lán(j_|vi-)tes,(ji|cllsc3) et(h|ta) es(j|vi)tis(g|ta) tris(h|vi)tes ?(g_h_g_|toS) (,)
+al(e_f|talsi8/ta>)le(gg|vs)lú(f_e|cl>)ia,(d_|ta) al(f|vi)le(gh|pe)lú(g|ta)ia.(g|ta) (::)
+E(j) u(j) o(i) u(j) a(h) e.(ghg) (::)

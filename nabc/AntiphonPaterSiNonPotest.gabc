@@ -1,0 +1,13 @@
+% !TEX root = Fastenzeit_V.tex
+% !TEX TS-program = LuaLaTeX+se 
+name:Pater si non potest;
+office-part:Antiphona ad Communionem;
+mode:VIII c;
+commentary:\ibibleverse{Mt}(26:42);
+manuscript:  Einsiedeln, Stiftsbibliothek / Codex 121(1151) – Graduale – Notkeri Sequentiae / p. 186 ;
+nabc-lines: 1;
+%%
+(c3) Pa(gh|peSlsim8lss2)ter,(fgf|///to) si(eg|``pelslen2lsm4lsi7lsc8) non(g|/vi>lst3) po(fh|pe)test(f|vi) hic(e|vi) ca(dfe|tolsi7)lix(e|ta) trans(e|talse4)í(eg|pelse4)re,(ge|//cl) (,)
+ni(g|vihh)si(i|vihi) bi(i|vihh)bam(h|vi) il(fih|to>lsi7lsm2lss9)lum :(g|ta) (:)  
+fi(hih|tolsl2lse7)at(hgh|po) vo(f|ta)lún(gh|pe>1lsi6lsp2)tas(g|vi) tu(e|ta)a.(e|ta) (::)
+<eu> (hr0) (f) (h) (ir1) (hr) (h) </eu>  (::)

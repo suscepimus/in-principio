@@ -1,0 +1,12 @@
+% !TEX root = Fastenzeit_V.tex
+% !TEX TS-program = LuaLaTeX+se 
+name:Deus meus eripe me;
+office-part:Ant. ad introitum;
+mode:VIII c;
+commentary:\ibibleverse{Ps}(71:4);
+manuscript: St. Gallen, Stiftsbibliothek / Cod. Sang. 390 – Antiphonarium officii / p. 178;
+nabc-lines: 1;
+%%
+(c3) De(h|vi)us(h|vi) me(h|vi)us(hvGF|ci-) *() é(gh|peS)ri(g|vi)pe(ef|peS) me(e|ta) (;)
+de(hi|peSlss4) ma(h|vi)nu(gihh|//tolsi7sthhlsc2) pec(f|vi)ca(d|ta)tó(e|vi)ris.(e|vi)  (::)
+<eu> (hr0) (f) (h) (ir1) (hr) (h) </eu> (::)

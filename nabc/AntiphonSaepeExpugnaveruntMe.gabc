@@ -1,0 +1,11 @@
+% !TEX root = Fastenzeit_V.tex
+% !TEX TS-program = LuaLaTeX+se 
+name:Saepe expugnaverunt me;
+office-part:Antiphona;
+mode:II c;
+commentary:\ibibleverse{Ps}(129:1);
+manuscript: St. Gallen, Stiftsbibliothek / Cod. Sang. 390 – Antiphonarium officii / p. 94;
+nabc-lines: 1;
+%%
+(f3) Sæ(hg|cl-)pe(f|ta) ex(f|ta)pug(g|vi)na(h|vihg)vé(i|vihh)runt(j>|vi>hi) me(i|vihh)
+a(i|vihhh) iu(i|vihh)ven(g>|vi>)tú(hi|peS)te(g|ta) me(h|vi)a.(f|ta)  (::)

@@ -1,0 +1,13 @@
+% !TEX root = Ostern_Heft_Partituren.tex
+% !TEX TS-program = LuaLaTeX+se 
+name: Tulerunt Dominum meum;
+mode: VII d;
+%http://www.e-codices.unifr.ch/en/csg/0391/043 = 48
+nabc-lines: 1;
+%%
+(c3) TU(e|ta)lé(ig/ij|cl/pe)runt(i|ta) *() Dó(j_k|pe)mi(j|vi)num(i|ta) me(j|vi)um(i|vi-) (;) 
+et(h|ta) nés(j|vi)ci(k|vi)o(j|vi-) u(i|vi-)bi(h|vi-) po(f|ta)su(i|vi-)é(h|vi)runt(g>|vi>) e(e|ta)um :(e|ta) (:) 
+si(e|ta) tu(e|ta) su(g|vi)stu(h|vi)lí(i|vi)sti(j|vi) e(i|vi)um,(h|ta) 
+dí(j_k|peS)ci(j|vi)to(i|ta) mi(j|vi)hi,(i_h_|cl-) al(ij|peS)le(j|vi)lú(i|ta)ia.(i|ta) (;)
+et(i|ta) e(j|vi-)go(i|vi-) e(h|vi)um(hf~|vi>) tol(hh|vs)am,(g_h|peS) al(ih~|vi>)le(f|vi-)lú(e|ta)ia.(e|ta) (::)
+E(i) u(i) o(j) u(i) a(h) e.(gi) (::)

@@ -1,0 +1,15 @@
+% !TEX root = Ostern_Heft_Partituren.tex
+% !TEX TS-program = LuaLaTeX+se 
+name: Venite benedicti Patris;
+mode: 7;
+%http://www.e-codices.unifr.ch/fr/sbe/0121/215 http://www.e-codices.unifr.ch/fr/csg/0339/110 
+nabc-lines: 1;
+%%
+(c3)VE(eh|peSlsi7lss3)NI(hhi|vi-lse4pq)TE(i|vi) *(,) be(iji|to)ne(h|ta)dí(hh!ivHG|dsci)cti(i|vi) Pat(i|vi)ris(ef~|ta>lsi8) me(fv/efd|vi-tolsi8)i,(d|ta) (;)
+per(f)cí(i)pi(h)te(hhh) re(hiHG)gnum,(hh) (,) al(f)le(fv_/dfe)lú(e_f_e_)ia :(e) (:)
+quod(e) vo(e)bis(ehg) pa(hi)rá(i)tum(hi) est(ijii/ghg) (;) 
+ab(i) o(k)ri(kk_kk_)gi(i)ne(ijhi) mun(i_j_i_)di,(i) (:)
+al(ik~)le(kkk)lú(hih)ia,(f) (,) al(hi~)le(i)lu(ki/kvJI)ia,(i) (,) al(hi~)le(iv/hig/hvFE)lú(e_f_e_)ia.(e) (::)
+Can(ehg)tá(hi)te(i) Dó(i)mi(i)no(i) cán(ik)ti(j)cum(j) no(ji)vum :(ij) *(:) 
+can(ig~)tá(hi)te(i) Dó(i)mi(i)no(i!jwk) om(i)nis(h) ter(hhh)ra.(fe) (::)
+Gló(ehg)ri(hi)a(i) Pat(i)ri.(i) (::) E(i) u(i!jwk) o(i) u(h) a(hhh) e.(fe) (::)
