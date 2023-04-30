@@ -1,0 +1,39 @@
+name:  Test de langage gabc;
+notabene: il s'agit d'établir une coloration syntaxique complète pour Notepad++;
+gabc-copyright: copyright sur ce fichier gabc;
+score-copyright: copyright sur la partition source;
+office-part: introitus/...;
+occasion: dans le calendrier de écclésial;
+meter: pour les hymnes avec une métrique;
+commentary:  provenance des paroles;
+arranger: nom de l'arrangeur;
+gabc-version: 0.9.3;
+author: s'il est connu;
+date: XI s;
+manuscript: nom du manuscrit;
+manuscript-reference: référence CAO;
+manuscript-storage-place: librairie ou monastère;
+book: livre duquel est tirée la partition;
+transcriber:  nom du transcripteur en gabc;
+transcription-date: 2009;
+gregoriotex-font: greciliae;
+mode:  6;
+initial-style: 1;
+user-notes: autres notes;
+annotation:  IN.;
+annotation:  6;
+%%
+(c4)
+Cor(cd@fef~) *() Ie(e)su(e/fgf/eoe!fv/ded.) (,)
+<sp>V/</sp>a(d)mó(-dfe)re(fg) nos(g_h)tri(g') vul(g)ne(f)rá(ghGF)tum,(efEDd) (;)
+<v>\tex{abs}</v>ve(c)ní(c!dwefv)te,(ed__) <sp>R/</sp> ad(-dfe)o(fg)ré(g_hGFg)mus.(fe..) (::)
+Ve(dh)ní(gh)te,(gf/gffe) <b>bold</b>(::)
+Chris([uh{]d_e!fw_0!g_h[uh}])tus(g) <sp>A/</sp> na([oh{]hg__!hw_!i_1j_[oh}])tus(h)
+<i>est</i>(gh~) <u>no</u>(hhgh)bis:(ffefOg.) +(;)
+ve(d!efOg)ní(g)te,(gh/hg/he__) ad(df!gwh)o(g)r<sp>’oe</sp>(fg!hvhgh)mus.(e.) (::)
+sal(d)vúm(d)qu<e>e</e> ab(d) hos(dh[cs:e])t<sp>’ae</sp>s(h) {ím}(h)pe<alt>textsup</alt>(g)t<e>u</e>
+(hvGFgwh/GFED.) (;)
+% ceci est un commentaire
+ac(f{d}) <c>dul(ed)ce(de) tes(g{a})ti(g)mó(g)ni[ni](f)um,</c>(ed/ffd.) (:)
+<u>om(d)nes(d) a(d)mor(dh) quos</u>(h) lá(h)ve(g)rat(hvGFgwh/GFED.) (;)
+<sc>o(e)ves(g) re(g)gén(ghg/hvGFED)das(fe) ác(d)ci(cd)pis.</sc>(deDCd.) (::) (g+)
